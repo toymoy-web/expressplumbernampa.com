@@ -1,3 +1,12 @@
 # Retired location pages, permanently redirected so indexed URLs never 404.
 /plumber-melba-id/ /service-area/ 301
 /plumber-melba-id /service-area/ 301
+# Blog slugs renamed to include the city (v11, 2026-10).
+/blog/arsenic-uranium-water-filters-canyon-county/ /blog/arsenic-uranium-water-filters-nampa/ 301
+/blog/arsenic-uranium-water-filters-canyon-county /blog/arsenic-uranium-water-filters-nampa/ 301
+/blog/frozen-pipes-treasure-valley-homes/ /blog/frozen-pipes-nampa-homes/ 301
+/blog/frozen-pipes-treasure-valley-homes /blog/frozen-pipes-nampa-homes/ 301
+/blog/tankless-vs-tank-water-heater-treasure-valley/ /blog/tankless-vs-tank-water-heater-nampa/ 301
+/blog/tankless-vs-tank-water-heater-treasure-valley /blog/tankless-vs-tank-water-heater-nampa/ 301
+/blog/crawlspace-leaks-canyon-county/ /blog/crawlspace-leaks-nampa-homes/ 301
+/blog/crawlspace-leaks-canyon-county /blog/crawlspace-leaks-nampa-homes/ 301

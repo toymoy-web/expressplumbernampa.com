@@ -1,1 +1,3 @@
-# Intentionally empty. Cloudflare Pages resolves slug/index.html natively.
+# Retired location pages, permanently redirected so indexed URLs never 404.
+/plumber-melba-id/ /service-area/ 301
+/plumber-melba-id /service-area/ 301
